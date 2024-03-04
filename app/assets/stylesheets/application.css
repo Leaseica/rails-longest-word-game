@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ .bd-blue-100 {
+  color: #000;
+  background-color:#cfe2ff
+}
